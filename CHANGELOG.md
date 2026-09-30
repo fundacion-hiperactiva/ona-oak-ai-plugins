@@ -4,7 +4,7 @@ Each version is the version of the Claude plugin this repository publishes, copi
 
 ## 0.1.5 — 2026-09-30
 
-- Publishes the Claude plugin 0.1.5, copied from oak-open-curriculum-ecosystem at 51dee7465, without the `evals/` folders.
+- Publishes the Claude plugin 0.1.5, copied from oak-open-curriculum-ecosystem at 0d5124bef, without the `evals/` folders.
 - The plugin gains support, documentation and terms of service links for its directory listing, and names this repository as its repository. The copy now matches its source exactly, so no differences are recorded.
 
 ## 0.1.4 — 2026-09-30
